@@ -46,7 +46,7 @@ This project is a Python-based application that evaluates the strength of a pass
 
 ### Input
 ```plaintext
-Enter your password (or type 'exit' to quit): vaudev
+Enter your password (or type 'exit' to quit): vasudev
 ```
 
 ### Output
@@ -59,7 +59,7 @@ Suggestions for improvement:
   - Password should include at least one number.
 
 Strengthening your password...
-Your new strong password: vaudevA!2kp93xyF
+Your new strong password: vasudevA!2kp93xyF
 ```
 
 ## Project Structure
